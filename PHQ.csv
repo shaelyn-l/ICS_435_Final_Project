@@ -1,0 +1,683 @@
+Age,Gender,Little interest or pleasure in doing things ,"  Feeling down, depressed, or hopeless  ","  Trouble falling or staying asleep, or sleeping too much  ",  Feeling tired or having little energy  ,  Poor appetite or overeating  ,Feeling bad about yourself—or that you are a failure or have let yourself or your family down  ,"Trouble concentrating on things, such as reading the newspaper or watching television  ",Moving or speaking so slowly that other people could have noticed? Or the opposite—being so fidgety or restless that you have been moving around a lot more than usual  ,Thoughts that you would be better off dead or of hurting yourself in some way  ,PHQ_Total,PHQ_Severity,Sleep Quality,Study Pressure,Financial Pressure
+22,Male,More than half the days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,More than half the days,Not at all,4,Minimal,Good,Good,Average
+25,Male,Not at all,Not at all,Nearly every day,Nearly every day,Nearly every day,Not at all,More than half the days,More than half the days,More than half the days,15,Moderately severe,Worst,Bad,Average
+22,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,1,Minimal,Average,Bad,Average
+18,Female,Nearly every day,Nearly every day,Not at all,Nearly every day,More than half the days,Not at all,Not at all,Not at all,Not at all,11,Moderate,Average,Bad,Worst
+24,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,More than half the days,Not at all,2,Minimal,Good,Average,Good
+19,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Good,Good
+22,Female,Not at all,Not at all,Not at all,Several days,Several days,Several days,Several days,Not at all,Not at all,4,Minimal,Good,Average,Worst
+20,Female,Not at all,Not at all,Several days,Several days,More than half the days,Not at all,Nearly every day,Several days,Several days,9,Mild,Bad,Good,Good
+18,Female,Not at all,Several days,Several days,Several days,Several days,Several days,Not at all,Several days,More than half the days,8,Mild,Average,Average,Bad
+18,Female,Not at all,Several days,Several days,Several days,Not at all,More than half the days,Several days,Not at all,Not at all,6,Mild,Average,Average,Average
+25,Female,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,Several days,Nearly every day,Nearly every day,More than half the days,23,Severe,Good,Worst,Bad
+19,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,1,Minimal,Bad,Good,Bad
+26,Female,Several days,Not at all,More than half the days,Not at all,Not at all,Several days,Several days,More than half the days,Several days,8,Mild,Bad,Good,Average
+20,Female,Several days,Several days,Several days,Not at all,Not at all,Not at all,More than half the days,Not at all,Several days,6,Mild,Good,Average,Average
+19,Female,More than half the days,Several days,Nearly every day,Nearly every day,More than half the days,More than half the days,Nearly every day,Several days,More than half the days,19,Moderately severe,Average,Average,Bad
+25,Female,Not at all,Several days,Not at all,Not at all,More than half the days,More than half the days,More than half the days,Several days,Several days,9,Mild,Good,Average,Average
+25,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,1,Minimal,Good,Good,Good
+20,Male,Not at all,Not at all,Not at all,More than half the days,Not at all,Not at all,Not at all,Several days,Not at all,3,Minimal,Good,Good,Good
+25,Female,Nearly every day,Not at all,More than half the days,More than half the days,More than half the days,Not at all,Not at all,Not at all,More than half the days,11,Moderate,Average,Bad,Worst
+26,Male,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,1,Minimal,Good,Good,Good
+24,Male,Nearly every day,More than half the days,Several days,Nearly every day,More than half the days,Nearly every day,Nearly every day,More than half the days,Nearly every day,22,Severe,Worst,Bad,Worst
+19,Male,More than half the days,Nearly every day,Several days,More than half the days,Nearly every day,Not at all,Nearly every day,Several days,More than half the days,17,Moderately severe,Average,Average,Bad
+18,Female,Nearly every day,Not at all,Not at all,Not at all,Not at all,Nearly every day,Several days,Not at all,Not at all,7,Mild,Good,Good,Bad
+18,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Several days,More than half the days,Not at all,4,Minimal,Good,Worst,Good
+19,Male,Several days,Not at all,Not at all,Not at all,Several days,Not at all,Several days,Not at all,Several days,4,Minimal,Good,Good,Worst
+26,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,1,Minimal,Average,Average,Average
+20,Male,Nearly every day,Nearly every day,Nearly every day,Several days,Several days,Several days,Several days,Nearly every day,Nearly every day,19,Moderately severe,Average,Average,Average
+18,Male,Several days,Several days,Several days,Not at all,Several days,Not at all,Not at all,Not at all,More than half the days,6,Mild,Average,Average,Good
+25,Male,Several days,More than half the days,Nearly every day,Several days,Not at all,Several days,Not at all,Not at all,More than half the days,10,Moderate,Average,Bad,Good
+19,Male,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Not at all,Several days,Several days,4,Minimal,Good,Average,Average
+21,Male,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,27,Severe,Worst,Bad,Bad
+26,Male,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,26,Severe,Average,Bad,Worst
+21,Male,Nearly every day,Not at all,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Several days,Nearly every day,Not at all,19,Moderately severe,Good,Bad,Bad
+19,Female,Not at all,More than half the days,Several days,Several days,Several days,Several days,Several days,More than half the days,Not at all,9,Mild,Bad,Bad,Good
+17,Female,Not at all,Nearly every day,Several days,Not at all,Several days,Not at all,Not at all,More than half the days,Several days,8,Mild,Worst,Bad,Average
+20,Female,Not at all,Several days,Several days,Several days,Nearly every day,More than half the days,Nearly every day,Several days,Not at all,12,Moderate,Bad,Worst,Bad
+22,Male,Several days,Nearly every day,Nearly every day,Several days,More than half the days,More than half the days,More than half the days,More than half the days,Several days,17,Moderately severe,Average,Average,Average
+23,Male,Several days,Not at all,Nearly every day,Nearly every day,Nearly every day,Several days,Nearly every day,More than half the days,Nearly every day,19,Moderately severe,Good,Bad,Average
+23,Male,Not at all,Several days,Not at all,Not at all,More than half the days,Not at all,Several days,Not at all,More than half the days,6,Mild,Average,Bad,Good
+21,Male,Several days,Several days,Not at all,Nearly every day,Several days,Nearly every day,Nearly every day,Several days,Several days,14,Moderate,Average,Average,Bad
+23,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Good,Average
+22,Female,Several days,Not at all,Not at all,Several days,Not at all,Several days,Several days,Not at all,More than half the days,6,Mild,Average,Bad,Average
+17,Male,More than half the days,Not at all,Not at all,Several days,Not at all,More than half the days,More than half the days,Nearly every day,Not at all,10,Moderate,Good,Bad,Bad
+19,Male,Several days,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Several days,Several days,4,Minimal,Bad,Average,Bad
+17,Male,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Several days,2,Minimal,Good,Good,Average
+18,Female,More than half the days,Several days,Nearly every day,More than half the days,More than half the days,Several days,Several days,More than half the days,Several days,15,Moderately severe,Bad,Worst,Worst
+24,Male,Several days,More than half the days,More than half the days,Nearly every day,Nearly every day,Not at all,More than half the days,More than half the days,Nearly every day,18,Moderately severe,Average,Average,Average
+20,Male,Several days,Not at all,Several days,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,3,Minimal,Good,Good,Good
+25,Male,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,27,Severe,Bad,Bad,Bad
+23,Female,Not at all,More than half the days,Several days,Several days,Several days,Several days,More than half the days,Not at all,Several days,9,Mild,Good,Bad,Good
+17,Male,More than half the days,Not at all,Several days,Several days,Several days,Not at all,Several days,More than half the days,Nearly every day,11,Moderate,Worst,Bad,Bad
+18,Female,Several days,Not at all,More than half the days,More than half the days,More than half the days,Several days,Several days,Several days,Not at all,10,Moderate,Bad,Bad,Worst
+18,Male,Several days,Several days,Several days,More than half the days,More than half the days,Several days,Several days,Several days,Not at all,10,Moderate,Worst,Average,Good
+18,Male,Not at all,Not at all,Several days,Several days,Not at all,Nearly every day,Not at all,Not at all,Not at all,5,Mild,Bad,Bad,Good
+22,Male,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,More than half the days,Several days,4,Minimal,Good,Good,Average
+22,Male,Several days,Several days,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Not at all,4,Minimal,Bad,Average,Bad
+19,Female,Not at all,Not at all,Not at all,Not at all,More than half the days,Not at all,Not at all,Several days,Several days,4,Minimal,Good,Good,Good
+23,Female,Nearly every day,Nearly every day,Several days,Nearly every day,Nearly every day,Nearly every day,Several days,Several days,Nearly every day,21,Severe,Average,Bad,Worst
+23,Male,Several days,Several days,More than half the days,Nearly every day,Several days,Not at all,Not at all,Nearly every day,Several days,12,Moderate,Good,Average,Good
+22,Male,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,2,Minimal,Good,Good,Good
+25,Male,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,More than half the days,More than half the days,23,Severe,Bad,Worst,Worst
+24,Male,Several days,Not at all,Not at all,Not at all,Nearly every day,Not at all,Not at all,Not at all,Not at all,4,Minimal,Good,Average,Worst
+18,Male,More than half the days,Several days,More than half the days,Several days,Several days,Nearly every day,More than half the days,Nearly every day,Not at all,15,Moderately severe,Worst,Average,Good
+19,Female,More than half the days,Several days,Nearly every day,More than half the days,Not at all,More than half the days,Nearly every day,Several days,Not at all,14,Moderate,Average,Worst,Worst
+18,Male,Not at all,More than half the days,Several days,Several days,Not at all,Not at all,Not at all,Not at all,Several days,5,Mild,Good,Average,Average
+24,Male,Not at all,Several days,More than half the days,Nearly every day,Nearly every day,Nearly every day,Several days,More than half the days,Nearly every day,18,Moderately severe,Bad,Bad,Worst
+20,Female,Not at all,Several days,Nearly every day,More than half the days,Not at all,Nearly every day,Several days,More than half the days,Nearly every day,15,Moderately severe,Average,Worst,Bad
+23,Male,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Nearly every day,Not at all,Not at all,4,Minimal,Average,Average,Average
+26,Female,Several days,Not at all,Several days,More than half the days,More than half the days,Several days,Not at all,Several days,Not at all,8,Mild,Good,Good,Average
+17,Female,More than half the days,Not at all,More than half the days,More than half the days,Nearly every day,Several days,Nearly every day,Several days,Nearly every day,17,Moderately severe,Worst,Worst,Bad
+21,Female,Several days,Several days,More than half the days,Nearly every day,Nearly every day,Nearly every day,Several days,Nearly every day,Not at all,17,Moderately severe,Bad,Bad,Average
+24,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Several days,2,Minimal,Good,Good,Good
+22,Male,Several days,Nearly every day,Several days,Several days,Nearly every day,More than half the days,Nearly every day,Not at all,Several days,15,Moderately severe,Good,Average,Bad
+24,Female,More than half the days,Several days,Nearly every day,More than half the days,Nearly every day,Several days,Nearly every day,Several days,Several days,17,Moderately severe,Worst,Worst,Bad
+21,Female,Several days,Not at all,Not at all,Not at all,More than half the days,Several days,Not at all,Not at all,Not at all,4,Minimal,Average,Average,Good
+23,Female,Nearly every day,Nearly every day,Several days,Nearly every day,Nearly every day,Several days,More than half the days,More than half the days,Nearly every day,21,Severe,Worst,Worst,Worst
+18,Male,Not at all,More than half the days,Nearly every day,Several days,Not at all,More than half the days,Not at all,Not at all,Several days,9,Mild,Average,Bad,Worst
+21,Female,Not at all,Not at all,More than half the days,Not at all,Several days,Not at all,More than half the days,Not at all,Not at all,5,Mild,Good,Bad,Good
+26,Male,Several days,Not at all,More than half the days,Not at all,Several days,Not at all,Not at all,Several days,Several days,6,Mild,Good,Good,Average
+24,Male,Not at all,Nearly every day,More than half the days,Nearly every day,Nearly every day,Several days,Several days,Nearly every day,Nearly every day,19,Moderately severe,Average,Bad,Bad
+23,Female,Several days,More than half the days,Nearly every day,Several days,Several days,More than half the days,Several days,More than half the days,Not at all,13,Moderate,Bad,Average,Worst
+19,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Average,Average,Good
+17,Male,More than half the days,More than half the days,Nearly every day,Several days,More than half the days,More than half the days,Several days,Not at all,More than half the days,15,Moderately severe,Average,Good,Bad
+19,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Average,Bad
+17,Female,Not at all,Several days,Several days,Several days,Not at all,Not at all,Not at all,Not at all,More than half the days,5,Mild,Good,Bad,Bad
+22,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,1,Minimal,Good,Bad,Average
+24,Male,Not at all,More than half the days,Nearly every day,More than half the days,Nearly every day,More than half the days,Nearly every day,Several days,Nearly every day,19,Moderately severe,Bad,Bad,Bad
+23,Male,More than half the days,Not at all,Not at all,Not at all,Several days,More than half the days,Several days,Several days,Not at all,7,Mild,Average,Bad,Average
+22,Male,Several days,Nearly every day,Several days,Not at all,Several days,Not at all,Several days,Several days,More than half the days,10,Moderate,Bad,Good,Worst
+20,Male,Not at all,More than half the days,Nearly every day,Not at all,More than half the days,Not at all,Nearly every day,Several days,Several days,12,Moderate,Average,Bad,Bad
+17,Male,Not at all,Not at all,Several days,More than half the days,Several days,Several days,Several days,Several days,Not at all,7,Mild,Good,Good,Good
+26,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Average,Good,Bad
+26,Male,Not at all,Not at all,More than half the days,Not at all,Not at all,Several days,More than half the days,Not at all,More than half the days,7,Mild,Average,Bad,Average
+25,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Good,Average
+20,Male,Several days,Several days,Not at all,Several days,Not at all,Not at all,Not at all,Several days,Several days,5,Mild,Average,Good,Good
+19,Female,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Not at all,Nearly every day,Nearly every day,24,Severe,Bad,Worst,Worst
+21,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Average,Good
+23,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Average,Average
+23,Male,More than half the days,Nearly every day,Not at all,Several days,Nearly every day,Several days,More than half the days,Several days,More than half the days,15,Moderately severe,Good,Bad,Average
+18,Male,More than half the days,Nearly every day,Several days,Several days,Not at all,Several days,More than half the days,Nearly every day,Several days,14,Moderate,Good,Bad,Bad
+21,Male,Several days,Several days,Several days,More than half the days,Nearly every day,More than half the days,Not at all,More than half the days,Nearly every day,15,Moderately severe,Good,Average,Worst
+18,Male,Several days,Not at all,Nearly every day,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,Several days,19,Moderately severe,Bad,Bad,Good
+18,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,1,Minimal,Good,Good,Worst
+18,Male,Not at all,Not at all,Not at all,Not at all,Nearly every day,Not at all,Not at all,More than half the days,Not at all,5,Mild,Average,Bad,Average
+23,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Several days,Not at all,2,Minimal,Bad,Average,Bad
+19,Female,Not at all,Nearly every day,More than half the days,Not at all,Not at all,Several days,Several days,Not at all,Not at all,7,Mild,Good,Average,Bad
+25,Male,Not at all,More than half the days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,2,Minimal,Good,Good,Average
+19,Female,More than half the days,Several days,More than half the days,Several days,More than half the days,Nearly every day,Several days,Several days,Nearly every day,16,Moderately severe,Bad,Worst,Bad
+19,Male,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,27,Severe,Bad,Bad,Worst
+26,Male,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,26,Severe,Average,Worst,Bad
+23,Female,Not at all,Not at all,Several days,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,2,Minimal,Good,Average,Good
+25,Male,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,27,Severe,Average,Worst,Worst
+17,Male,Several days,Several days,Several days,More than half the days,More than half the days,Not at all,Several days,Not at all,Several days,9,Mild,Bad,Good,Bad
+22,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Average,Bad,Average
+25,Male,Not at all,Not at all,Several days,Nearly every day,Several days,Several days,Several days,More than half the days,Not at all,9,Mild,Average,Bad,Bad
+20,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Average,Average,Good
+21,Male,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,More than half the days,Several days,Not at all,4,Minimal,Average,Average,Bad
+26,Male,Not at all,More than half the days,Nearly every day,Not at all,More than half the days,More than half the days,Not at all,More than half the days,Nearly every day,14,Moderate,Good,Worst,Good
+20,Female,More than half the days,Nearly every day,Not at all,Several days,Not at all,More than half the days,Several days,Not at all,Not at all,9,Mild,Bad,Bad,Average
+17,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Several days,2,Minimal,Good,Good,Good
+22,Female,Several days,Not at all,Not at all,Several days,Not at all,Nearly every day,More than half the days,Not at all,Several days,8,Mild,Bad,Average,Average
+26,Female,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,27,Severe,Worst,Worst,Bad
+21,Male,More than half the days,Several days,Several days,Not at all,Several days,More than half the days,Several days,Not at all,Several days,9,Mild,Good,Average,Average
+21,Male,Not at all,Several days,More than half the days,Nearly every day,More than half the days,Not at all,Nearly every day,Several days,Not at all,12,Moderate,Good,Bad,Bad
+21,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Bad,Good
+25,Female,Not at all,Several days,Several days,Several days,More than half the days,More than half the days,Several days,Not at all,Several days,9,Mild,Average,Bad,Average
+20,Female,Several days,Several days,Not at all,Several days,Not at all,Several days,Several days,Not at all,Not at all,5,Mild,Bad,Average,Good
+25,Male,More than half the days,Several days,Nearly every day,More than half the days,Nearly every day,Several days,Nearly every day,Nearly every day,Several days,19,Moderately severe,Worst,Average,Bad
+24,Female,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,2,Minimal,Good,Worst,Good
+20,Female,Several days,Several days,Several days,Nearly every day,More than half the days,Not at all,Not at all,Several days,More than half the days,11,Moderate,Average,Bad,Good
+24,Female,Several days,Several days,Nearly every day,Nearly every day,Several days,Not at all,More than half the days,More than half the days,Nearly every day,16,Moderately severe,Bad,Average,Bad
+19,Male,Several days,Not at all,More than half the days,Not at all,Not at all,Not at all,More than half the days,Not at all,Several days,6,Mild,Good,Bad,Average
+25,Female,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,27,Severe,Average,Worst,Worst
+21,Male,More than half the days,Not at all,Not at all,More than half the days,Several days,Nearly every day,Several days,Several days,Several days,11,Moderate,Average,Bad,Average
+19,Male,Several days,Several days,Nearly every day,Several days,More than half the days,Nearly every day,More than half the days,Nearly every day,Several days,17,Moderately severe,Worst,Bad,Bad
+19,Male,Several days,Several days,Not at all,More than half the days,Nearly every day,Several days,Several days,Nearly every day,Several days,13,Moderate,Average,Average,Worst
+24,Male,Not at all,More than half the days,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,3,Minimal,Good,Good,Average
+26,Male,Not at all,Not at all,Not at all,Not at all,Several days,Several days,Several days,Several days,Not at all,4,Minimal,Average,Good,Average
+26,Female,More than half the days,More than half the days,Several days,Nearly every day,Nearly every day,More than half the days,Several days,More than half the days,Nearly every day,19,Moderately severe,Bad,Worst,Good
+22,Male,Nearly every day,More than half the days,Not at all,Nearly every day,Nearly every day,Several days,Nearly every day,Several days,Several days,17,Moderately severe,Worst,Good,Bad
+23,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Bad,Good,Good
+19,Male,More than half the days,Not at all,Several days,Not at all,Several days,Not at all,Several days,Nearly every day,Nearly every day,11,Moderate,Average,Average,Average
+24,Male,Several days,Several days,Not at all,Several days,More than half the days,Several days,Not at all,Not at all,Not at all,6,Mild,Average,Average,Average
+20,Female,Not at all,Several days,More than half the days,Nearly every day,Not at all,Nearly every day,Nearly every day,Nearly every day,Nearly every day,18,Moderately severe,Average,Worst,Bad
+20,Female,Nearly every day,Not at all,Several days,Not at all,More than half the days,Several days,More than half the days,Not at all,Several days,10,Moderate,Average,Average,Bad
+21,Male,Not at all,Several days,Not at all,Nearly every day,Not at all,Several days,Several days,Several days,More than half the days,9,Mild,Good,Average,Bad
+24,Female,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,25,Severe,Worst,Worst,Worst
+20,Male,Not at all,Not at all,Several days,Several days,Nearly every day,Several days,More than half the days,Not at all,Several days,9,Mild,Average,Average,Bad
+19,Female,Nearly every day,Several days,More than half the days,More than half the days,More than half the days,Not at all,Not at all,Several days,Several days,12,Moderate,Good,Average,Worst
+26,Male,Not at all,Nearly every day,More than half the days,Several days,Nearly every day,Nearly every day,Several days,More than half the days,Nearly every day,18,Moderately severe,Average,Bad,Good
+19,Male,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,26,Severe,Worst,Average,Average
+21,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,1,Minimal,Good,Good,Good
+23,Male,Not at all,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,2,Minimal,Good,Good,Average
+19,Male,Several days,Not at all,Several days,Several days,Not at all,More than half the days,More than half the days,More than half the days,Not at all,9,Mild,Average,Average,Bad
+23,Male,More than half the days,Not at all,Several days,Several days,Nearly every day,More than half the days,Several days,More than half the days,Several days,13,Moderate,Worst,Worst,Average
+24,Female,Not at all,Not at all,Several days,Not at all,More than half the days,Several days,More than half the days,Several days,Nearly every day,10,Moderate,Average,Average,Worst
+17,Male,Not at all,More than half the days,Nearly every day,Not at all,More than half the days,Nearly every day,Several days,More than half the days,Not at all,13,Moderate,Bad,Bad,Good
+19,Female,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,26,Severe,Worst,Worst,Worst
+18,Female,Not at all,Not at all,Several days,Several days,Several days,More than half the days,Several days,Not at all,Several days,7,Mild,Good,Good,Average
+21,Male,Nearly every day,Several days,Several days,More than half the days,More than half the days,Not at all,Not at all,More than half the days,Several days,12,Moderate,Bad,Bad,Good
+24,Male,Nearly every day,Nearly every day,Several days,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,Several days,22,Severe,Bad,Bad,Bad
+21,Female,Not at all,Not at all,Not at all,Several days,Not at all,Several days,Not at all,Not at all,Not at all,2,Minimal,Average,Bad,Good
+20,Male,Not at all,Not at all,Not at all,Several days,Several days,Several days,More than half the days,More than half the days,Not at all,7,Mild,Average,Good,Good
+20,Male,Several days,Nearly every day,Not at all,Several days,Not at all,Several days,More than half the days,Not at all,Nearly every day,11,Moderate,Average,Average,Average
+22,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Good,Bad
+19,Female,Several days,Not at all,Not at all,Not at all,Not at all,Several days,More than half the days,More than half the days,Not at all,6,Mild,Bad,Worst,Average
+26,Female,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Several days,Several days,Not at all,3,Minimal,Good,Average,Good
+17,Female,Several days,Not at all,Not at all,Several days,Not at all,Several days,Not at all,Not at all,Several days,4,Minimal,Good,Average,Average
+23,Male,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,27,Severe,Good,Average,Worst
+22,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Average,Good
+21,Male,More than half the days,Not at all,More than half the days,Not at all,Not at all,Several days,Not at all,More than half the days,Several days,8,Mild,Average,Good,Average
+25,Female,Several days,More than half the days,Not at all,Several days,Not at all,Not at all,Not at all,Several days,More than half the days,7,Mild,Good,Bad,Good
+18,Female,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,1,Minimal,Good,Good,Good
+25,Female,More than half the days,Not at all,Nearly every day,Not at all,Several days,Not at all,Nearly every day,Several days,Several days,11,Moderate,Average,Average,Bad
+24,Female,Nearly every day,More than half the days,More than half the days,More than half the days,Nearly every day,Not at all,Not at all,Nearly every day,More than half the days,17,Moderately severe,Bad,Good,Average
+26,Male,Not at all,Not at all,Not at all,More than half the days,More than half the days,Not at all,Several days,More than half the days,More than half the days,9,Mild,Good,Average,Average
+23,Male,Nearly every day,Nearly every day,More than half the days,More than half the days,Not at all,More than half the days,Not at all,More than half the days,Nearly every day,17,Moderately severe,Bad,Bad,Bad
+17,Male,More than half the days,Several days,More than half the days,Several days,Several days,More than half the days,Not at all,Nearly every day,Nearly every day,15,Moderately severe,Bad,Good,Average
+22,Male,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,3,Minimal,Bad,Average,Average
+19,Male,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,1,Minimal,Good,Good,Good
+19,Male,Not at all,Not at all,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Several days,3,Minimal,Good,Average,Worst
+20,Female,Not at all,Several days,Not at all,Not at all,Not at all,More than half the days,Not at all,Several days,More than half the days,6,Mild,Good,Average,Average
+21,Female,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,1,Minimal,Bad,Good,Bad
+21,Female,Nearly every day,Nearly every day,Not at all,More than half the days,More than half the days,Nearly every day,Several days,Not at all,Nearly every day,17,Moderately severe,Worst,Bad,Bad
+26,Female,Nearly every day,Several days,Not at all,Several days,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,19,Moderately severe,Average,Average,Good
+17,Male,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,2,Minimal,Average,Good,Average
+24,Female,Several days,Several days,Not at all,More than half the days,Several days,Several days,Several days,Several days,More than half the days,10,Moderate,Bad,Worst,Worst
+19,Female,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,1,Minimal,Good,Bad,Average
+21,Male,Nearly every day,Several days,Not at all,More than half the days,More than half the days,Several days,Nearly every day,More than half the days,Several days,15,Moderately severe,Bad,Bad,Worst
+18,Female,Not at all,Not at all,Several days,Several days,Several days,Several days,Not at all,Not at all,Several days,5,Mild,Good,Good,Bad
+25,Female,Not at all,Nearly every day,Nearly every day,More than half the days,Not at all,Several days,More than half the days,More than half the days,Nearly every day,16,Moderately severe,Good,Bad,Average
+22,Male,More than half the days,Several days,More than half the days,Several days,More than half the days,Not at all,Not at all,More than half the days,Several days,11,Moderate,Bad,Average,Average
+22,Male,Nearly every day,Nearly every day,Several days,Several days,More than half the days,Several days,Nearly every day,More than half the days,Not at all,16,Moderately severe,Worst,Good,Bad
+23,Male,Several days,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,2,Minimal,Average,Good,Good
+20,Female,More than half the days,More than half the days,More than half the days,Several days,Several days,More than half the days,Nearly every day,Not at all,Nearly every day,16,Moderately severe,Average,Bad,Worst
+21,Male,Nearly every day,More than half the days,Not at all,Several days,Several days,Several days,More than half the days,More than half the days,Nearly every day,15,Moderately severe,Average,Bad,Worst
+17,Male,More than half the days,Not at all,Not at all,Not at all,Several days,Not at all,More than half the days,Not at all,Several days,6,Mild,Average,Good,Average
+18,Female,Not at all,Not at all,Several days,Not at all,Several days,Several days,Not at all,Not at all,Not at all,3,Minimal,Average,Good,Good
+17,Male,More than half the days,More than half the days,More than half the days,More than half the days,Several days,More than half the days,Nearly every day,More than half the days,Nearly every day,19,Moderately severe,Worst,Average,Worst
+23,Male,Not at all,Not at all,Several days,Several days,Several days,Not at all,Several days,Several days,Several days,6,Mild,Average,Average,Good
+24,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Average,Good,Bad
+25,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,1,Minimal,Good,Good,Good
+24,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,1,Minimal,Good,Average,Average
+22,Female,Several days,Not at all,Not at all,Not at all,Several days,Not at all,Several days,Several days,Several days,5,Mild,Bad,Good,Good
+24,Female,Several days,Several days,Not at all,Several days,More than half the days,More than half the days,Not at all,Several days,Several days,9,Mild,Average,Average,Average
+18,Male,More than half the days,Several days,More than half the days,Nearly every day,Not at all,Not at all,Nearly every day,Several days,Not at all,12,Moderate,Good,Average,Average
+25,Male,More than half the days,Not at all,Several days,Several days,More than half the days,Nearly every day,More than half the days,Several days,More than half the days,14,Moderate,Good,Good,Bad
+20,Male,Not at all,Not at all,Several days,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,2,Minimal,Average,Good,Good
+22,Female,More than half the days,More than half the days,Not at all,Not at all,Several days,More than half the days,Not at all,Not at all,Not at all,7,Mild,Good,Bad,Bad
+17,Male,Not at all,Several days,Not at all,Several days,More than half the days,Nearly every day,More than half the days,Not at all,Nearly every day,12,Moderate,Good,Worst,Worst
+20,Male,Several days,Not at all,Nearly every day,Nearly every day,Several days,More than half the days,Several days,More than half the days,Nearly every day,16,Moderately severe,Bad,Worst,Average
+19,Male,Not at all,Several days,Several days,Not at all,Not at all,Several days,Several days,Not at all,Not at all,4,Minimal,Average,Good,Good
+18,Male,Nearly every day,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,25,Severe,Worst,Worst,Good
+20,Female,Several days,Not at all,Several days,Not at all,Not at all,Not at all,More than half the days,More than half the days,Not at all,6,Mild,Good,Good,Average
+26,Male,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Several days,2,Minimal,Average,Good,Average
+19,Female,Not at all,Nearly every day,Not at all,Nearly every day,Nearly every day,Not at all,Nearly every day,Not at all,More than half the days,14,Moderate,Average,Worst,Bad
+24,Female,Several days,More than half the days,Not at all,Nearly every day,Not at all,Several days,More than half the days,Several days,Nearly every day,13,Moderate,Average,Good,Average
+22,Male,Not at all,Not at all,Not at all,More than half the days,Not at all,Several days,Several days,Several days,Not at all,5,Mild,Average,Good,Average
+19,Male,Several days,More than half the days,Nearly every day,More than half the days,Several days,Nearly every day,More than half the days,More than half the days,Nearly every day,19,Moderately severe,Bad,Average,Bad
+20,Male,Several days,More than half the days,Several days,Nearly every day,More than half the days,More than half the days,Several days,Several days,Several days,14,Moderate,Bad,Good,Average
+26,Male,Not at all,Several days,Several days,Several days,Not at all,Not at all,Not at all,Several days,Not at all,4,Minimal,Average,Good,Worst
+20,Male,Several days,Several days,Not at all,Not at all,More than half the days,Several days,Not at all,Several days,Not at all,6,Mild,Average,Average,Good
+25,Female,Nearly every day,Not at all,Several days,Several days,More than half the days,More than half the days,More than half the days,Several days,More than half the days,14,Moderate,Good,Average,Bad
+25,Male,Nearly every day,More than half the days,Not at all,Several days,Several days,Nearly every day,More than half the days,Nearly every day,Nearly every day,18,Moderately severe,Bad,Worst,Bad
+26,Female,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,More than half the days,3,Minimal,Good,Average,Good
+23,Male,Several days,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,2,Minimal,Good,Good,Average
+19,Male,Not at all,Several days,Not at all,Several days,Several days,Not at all,Several days,Not at all,Not at all,4,Minimal,Bad,Good,Average
+24,Female,Not at all,Several days,Not at all,Several days,Not at all,Several days,More than half the days,Not at all,Not at all,5,Mild,Good,Average,Worst
+17,Female,Not at all,Several days,Not at all,Several days,Several days,Several days,Not at all,Nearly every day,Several days,8,Mild,Bad,Average,Good
+26,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Several days,Several days,Not at all,3,Minimal,Average,Good,Good
+25,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Average,Average,Average
+18,Male,Several days,Several days,Several days,Not at all,Several days,Several days,Not at all,Several days,Several days,7,Mild,Average,Average,Average
+23,Male,More than half the days,Not at all,More than half the days,Not at all,Several days,Several days,Several days,More than half the days,Not at all,9,Mild,Average,Average,Good
+18,Male,Several days,More than half the days,Not at all,More than half the days,Several days,Not at all,More than half the days,Several days,More than half the days,11,Moderate,Average,Average,Good
+18,Male,More than half the days,Several days,Not at all,Not at all,Several days,Several days,Not at all,Several days,Not at all,6,Mild,Good,Good,Good
+21,Male,Several days,Several days,Nearly every day,More than half the days,Several days,More than half the days,Several days,Several days,Nearly every day,15,Moderately severe,Bad,Worst,Worst
+22,Female,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,26,Severe,Bad,Worst,Average
+20,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Good,Good
+19,Female,Not at all,More than half the days,Not at all,More than half the days,Several days,More than half the days,Nearly every day,More than half the days,Not at all,12,Moderate,Bad,Worst,Average
+24,Male,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Several days,Not at all,Not at all,2,Minimal,Good,Good,Good
+23,Female,Not at all,Not at all,Not at all,Not at all,Several days,Several days,More than half the days,Several days,Several days,6,Mild,Bad,Bad,Good
+20,Male,Not at all,Not at all,Not at all,More than half the days,More than half the days,Not at all,Several days,Not at all,Not at all,5,Mild,Worst,Bad,Average
+25,Male,Several days,Not at all,Several days,Several days,Not at all,Not at all,Several days,Not at all,Not at all,4,Minimal,Bad,Good,Good
+17,Male,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,Nearly every day,Several days,Nearly every day,19,Moderately severe,Bad,Good,Worst
+23,Male,Several days,Not at all,Several days,Not at all,Not at all,Not at all,More than half the days,More than half the days,Several days,7,Mild,Good,Good,Good
+25,Male,Several days,Several days,Several days,Several days,Several days,Not at all,Several days,Several days,Not at all,7,Mild,Bad,Average,Average
+23,Male,Several days,More than half the days,Several days,Not at all,Not at all,More than half the days,Not at all,Not at all,Not at all,6,Mild,Average,Average,Bad
+22,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Bad,Good,Average
+26,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,More than half the days,Not at all,2,Minimal,Bad,Good,Average
+24,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,1,Minimal,Average,Average,Good
+23,Male,Several days,Not at all,Nearly every day,Nearly every day,Several days,More than half the days,Nearly every day,Several days,Several days,15,Moderately severe,Average,Worst,Bad
+25,Male,Several days,Not at all,Not at all,Not at all,Not at all,More than half the days,Several days,Several days,Several days,6,Mild,Good,Average,Average
+17,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,1,Minimal,Average,Good,Worst
+25,Female,Not at all,Not at all,Not at all,Several days,More than half the days,Several days,Several days,Not at all,Not at all,5,Mild,Good,Good,Average
+25,Female,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,2,Minimal,Good,Good,Average
+19,Male,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,1,Minimal,Good,Bad,Average
+21,Female,Nearly every day,More than half the days,Not at all,Several days,Several days,Not at all,More than half the days,Nearly every day,More than half the days,14,Moderate,Worst,Good,Average
+19,Male,More than half the days,Several days,More than half the days,More than half the days,Several days,Nearly every day,Not at all,Several days,More than half the days,14,Moderate,Bad,Bad,Good
+24,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,1,Minimal,Good,Good,Average
+17,Female,Nearly every day,More than half the days,More than half the days,Not at all,Several days,Several days,Nearly every day,Several days,Not at all,13,Moderate,Good,Bad,Worst
+18,Female,Not at all,Several days,Not at all,Not at all,More than half the days,Several days,Several days,More than half the days,Several days,8,Mild,Average,Average,Good
+22,Female,Not at all,Several days,Nearly every day,Several days,Nearly every day,Several days,Not at all,More than half the days,More than half the days,13,Moderate,Worst,Bad,Bad
+19,Male,Not at all,Not at all,Not at all,Several days,Several days,Several days,Not at all,Several days,More than half the days,6,Mild,Good,Good,Good
+19,Female,More than half the days,Several days,Several days,More than half the days,More than half the days,Several days,More than half the days,Several days,Nearly every day,15,Moderately severe,Bad,Good,Bad
+18,Female,Several days,Nearly every day,More than half the days,Several days,More than half the days,Not at all,Nearly every day,Several days,More than half the days,15,Moderately severe,Worst,Average,Good
+22,Male,Nearly every day,Nearly every day,More than half the days,Several days,More than half the days,Nearly every day,Nearly every day,Nearly every day,Several days,21,Severe,Worst,Worst,Bad
+18,Male,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,2,Minimal,Average,Bad,Average
+24,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,1,Minimal,Average,Average,Good
+17,Female,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,1,Minimal,Good,Average,Average
+19,Male,Nearly every day,Several days,More than half the days,More than half the days,Several days,Several days,Not at all,Several days,More than half the days,13,Moderate,Average,Bad,Bad
+19,Male,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Several days,Not at all,Several days,3,Minimal,Average,Good,Bad
+22,Male,More than half the days,Several days,More than half the days,Nearly every day,Nearly every day,More than half the days,More than half the days,Nearly every day,Nearly every day,21,Severe,Worst,Worst,Bad
+25,Male,Several days,Nearly every day,More than half the days,Nearly every day,More than half the days,More than half the days,More than half the days,Several days,Nearly every day,19,Moderately severe,Worst,Bad,Bad
+26,Male,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,2,Minimal,Bad,Good,Good
+17,Male,Several days,Several days,Nearly every day,Several days,More than half the days,Nearly every day,Not at all,Not at all,More than half the days,13,Moderate,Average,Bad,Worst
+23,Male,More than half the days,Several days,Not at all,Several days,Not at all,More than half the days,Not at all,More than half the days,Not at all,8,Mild,Average,Good,Bad
+17,Female,Nearly every day,Not at all,Nearly every day,More than half the days,Several days,Several days,Nearly every day,Nearly every day,Several days,17,Moderately severe,Bad,Average,Bad
+26,Male,Several days,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,2,Minimal,Average,Average,Bad
+17,Male,Several days,Several days,Several days,Nearly every day,Not at all,Not at all,Not at all,More than half the days,Not at all,8,Mild,Average,Good,Average
+20,Male,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,2,Minimal,Average,Average,Average
+25,Female,Several days,More than half the days,Several days,Several days,More than half the days,Several days,Several days,More than half the days,More than half the days,13,Moderate,Bad,Average,Good
+24,Male,Several days,Not at all,Several days,Not at all,Not at all,Not at all,More than half the days,Several days,Several days,6,Mild,Good,Average,Bad
+18,Female,More than half the days,Nearly every day,Nearly every day,More than half the days,Nearly every day,More than half the days,Several days,More than half the days,More than half the days,20,Severe,Bad,Bad,Average
+22,Male,Not at all,More than half the days,Not at all,Several days,Nearly every day,Not at all,Not at all,Nearly every day,Not at all,9,Mild,Good,Average,Bad
+24,Male,More than half the days,Several days,Nearly every day,Nearly every day,Several days,Several days,More than half the days,Nearly every day,Several days,17,Moderately severe,Bad,Bad,Worst
+22,Male,Not at all,Several days,Not at all,Not at all,Several days,Several days,Several days,More than half the days,Several days,7,Mild,Good,Good,Bad
+18,Male,More than half the days,Nearly every day,Several days,Several days,Nearly every day,Not at all,More than half the days,Several days,Nearly every day,16,Moderately severe,Bad,Bad,Good
+18,Male,Nearly every day,Not at all,More than half the days,Nearly every day,Several days,Several days,More than half the days,Nearly every day,More than half the days,17,Moderately severe,Bad,Bad,Bad
+25,Female,More than half the days,More than half the days,Nearly every day,More than half the days,Several days,Not at all,More than half the days,Several days,Several days,14,Moderate,Average,Bad,Average
+23,Male,Not at all,Not at all,Several days,Not at all,Not at all,Several days,Not at all,Several days,Several days,4,Minimal,Good,Bad,Good
+23,Male,Nearly every day,More than half the days,Nearly every day,More than half the days,Not at all,Nearly every day,More than half the days,Not at all,Several days,16,Moderately severe,Good,Bad,Good
+21,Male,Several days,Several days,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Several days,4,Minimal,Good,Good,Bad
+24,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Several days,Not at all,2,Minimal,Average,Good,Average
+23,Female,Several days,Several days,More than half the days,Not at all,Several days,Not at all,Several days,Not at all,Several days,7,Mild,Good,Good,Average
+22,Female,Several days,Not at all,Nearly every day,More than half the days,More than half the days,Nearly every day,Nearly every day,Several days,Not at all,15,Moderately severe,Average,Bad,Bad
+18,Male,Several days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,24,Severe,Bad,Average,Bad
+26,Male,Not at all,More than half the days,Not at all,Several days,Not at all,Not at all,Several days,Not at all,Not at all,4,Minimal,Average,Good,Average
+26,Female,Several days,Several days,More than half the days,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,5,Mild,Good,Average,Average
+25,Male,More than half the days,Not at all,Not at all,Several days,Not at all,Not at all,More than half the days,Not at all,Several days,6,Mild,Average,Average,Bad
+21,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Average,Average
+22,Female,Not at all,Nearly every day,Several days,Several days,Not at all,Several days,Several days,Several days,More than half the days,10,Moderate,Good,Good,Worst
+23,Male,Nearly every day,More than half the days,Nearly every day,More than half the days,Not at all,Nearly every day,Several days,Several days,Several days,16,Moderately severe,Bad,Good,Worst
+20,Male,More than half the days,Several days,Several days,More than half the days,More than half the days,Not at all,More than half the days,More than half the days,Several days,13,Moderate,Average,Bad,Average
+17,Female,Nearly every day,Not at all,Several days,Nearly every day,Nearly every day,Several days,More than half the days,Several days,Nearly every day,17,Moderately severe,Bad,Bad,Worst
+26,Male,Not at all,Several days,Not at all,Not at all,Several days,Not at all,Nearly every day,Not at all,More than half the days,7,Mild,Average,Average,Good
+17,Female,Nearly every day,Nearly every day,Several days,Nearly every day,Nearly every day,Several days,Nearly every day,Several days,More than half the days,20,Severe,Worst,Bad,Worst
+25,Male,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,1,Minimal,Good,Good,Good
+24,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Average,Bad
+18,Female,Several days,More than half the days,Not at all,Several days,Not at all,Not at all,Not at all,Several days,Not at all,5,Mild,Average,Bad,Bad
+25,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Average,Bad
+24,Female,Not at all,Several days,Nearly every day,Several days,Not at all,Several days,Several days,Several days,More than half the days,10,Moderate,Average,Average,Bad
+17,Male,Not at all,Not at all,Several days,Not at all,Not at all,More than half the days,Several days,Not at all,Not at all,4,Minimal,Good,Average,Good
+26,Female,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Several days,2,Minimal,Good,Good,Good
+17,Male,Not at all,Not at all,Not at all,Several days,Several days,Nearly every day,Several days,Several days,Nearly every day,10,Moderate,Worst,Good,Average
+22,Male,Several days,Nearly every day,Nearly every day,Nearly every day,More than half the days,Not at all,Nearly every day,Several days,Nearly every day,19,Moderately severe,Worst,Worst,Average
+19,Female,Not at all,Nearly every day,More than half the days,More than half the days,More than half the days,Not at all,Nearly every day,More than half the days,Several days,15,Moderately severe,Bad,Average,Bad
+18,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,More than half the days,3,Minimal,Good,Bad,Good
+21,Male,More than half the days,More than half the days,Nearly every day,More than half the days,More than half the days,Not at all,Several days,Nearly every day,Not at all,15,Moderately severe,Average,Bad,Worst
+22,Male,Nearly every day,Several days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,Nearly every day,24,Severe,Average,Bad,Worst
+19,Male,Several days,Several days,More than half the days,Nearly every day,Nearly every day,Several days,Nearly every day,Nearly every day,Nearly every day,20,Severe,Bad,Worst,Worst
+25,Male,Several days,More than half the days,Not at all,Several days,Several days,More than half the days,Several days,Several days,Nearly every day,12,Moderate,Average,Worst,Good
+24,Female,More than half the days,Not at all,Several days,Not at all,Not at all,Several days,Not at all,More than half the days,Not at all,6,Mild,Average,Bad,Bad
+21,Male,Several days,Nearly every day,Several days,More than half the days,More than half the days,More than half the days,Several days,Several days,Several days,14,Moderate,Bad,Bad,Worst
+26,Male,More than half the days,Not at all,Several days,Several days,Nearly every day,Several days,Not at all,More than half the days,More than half the days,12,Moderate,Average,Bad,Average
+26,Female,Not at all,Several days,More than half the days,Not at all,Several days,Not at all,Several days,More than half the days,Not at all,7,Mild,Worst,Average,Average
+17,Male,Nearly every day,Nearly every day,Nearly every day,Several days,Several days,Not at all,Not at all,More than half the days,Several days,14,Moderate,Bad,Bad,Bad
+21,Male,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,More than half the days,Several days,4,Minimal,Good,Good,Good
+19,Male,More than half the days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,More than half the days,4,Minimal,Average,Good,Average
+19,Female,Not at all,Not at all,Several days,Several days,Several days,Not at all,Not at all,Several days,Not at all,4,Minimal,Good,Good,Good
+20,Male,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,More than half the days,More than half the days,Not at all,5,Mild,Good,Worst,Good
+25,Female,Not at all,Several days,Not at all,Nearly every day,Several days,Nearly every day,Nearly every day,Not at all,More than half the days,13,Moderate,Average,Worst,Average
+26,Male,Nearly every day,Several days,Not at all,More than half the days,Not at all,Not at all,More than half the days,Nearly every day,Nearly every day,14,Moderate,Bad,Good,Good
+24,Female,Several days,Several days,Several days,Not at all,Several days,Not at all,Not at all,Several days,More than half the days,7,Mild,Good,Bad,Good
+17,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,1,Minimal,Good,Bad,Good
+23,Male,Not at all,Several days,More than half the days,More than half the days,Nearly every day,Nearly every day,More than half the days,Several days,Nearly every day,17,Moderately severe,Good,Average,Worst
+21,Male,More than half the days,More than half the days,More than half the days,Nearly every day,Several days,Several days,Nearly every day,Several days,Not at all,15,Moderately severe,Good,Bad,Bad
+25,Female,More than half the days,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,Nearly every day,More than half the days,Nearly every day,24,Severe,Worst,Worst,Worst
+20,Male,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,2,Minimal,Average,Good,Good
+25,Female,Not at all,Nearly every day,Nearly every day,Nearly every day,More than half the days,Not at all,Several days,Several days,More than half the days,15,Moderately severe,Bad,Bad,Bad
+20,Male,Not at all,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,2,Minimal,Good,Good,Average
+22,Male,Several days,More than half the days,Not at all,Not at all,Not at all,Several days,Several days,More than half the days,Nearly every day,10,Moderate,Average,Worst,Average
+26,Female,Nearly every day,Several days,Nearly every day,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,24,Severe,Bad,Worst,Average
+26,Male,Not at all,Not at all,Not at all,Several days,Several days,Several days,Nearly every day,Nearly every day,Nearly every day,12,Moderate,Good,Worst,Bad
+26,Male,More than half the days,Nearly every day,Not at all,Several days,Several days,Not at all,Nearly every day,Nearly every day,Nearly every day,16,Moderately severe,Bad,Bad,Average
+18,Male,Not at all,Not at all,Not at all,More than half the days,Not at all,Several days,Not at all,Not at all,Several days,4,Minimal,Good,Bad,Average
+23,Female,Not at all,Several days,Not at all,Not at all,Several days,Not at all,Several days,Several days,Not at all,4,Minimal,Average,Average,Average
+21,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Average,Good,Good
+26,Male,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,27,Severe,Good,Worst,Average
+20,Male,Not at all,Not at all,Several days,Not at all,More than half the days,Not at all,Several days,More than half the days,Nearly every day,9,Mild,Good,Good,Bad
+17,Male,Several days,Several days,More than half the days,More than half the days,More than half the days,Several days,Not at all,Several days,Not at all,10,Moderate,Bad,Bad,Average
+23,Male,Not at all,Not at all,Not at all,Not at all,Several days,Several days,Several days,Not at all,Not at all,3,Minimal,Good,Good,Good
+24,Male,Nearly every day,Nearly every day,Not at all,More than half the days,More than half the days,More than half the days,More than half the days,Nearly every day,Several days,18,Moderately severe,Worst,Average,Worst
+22,Male,Not at all,Not at all,Not at all,More than half the days,Not at all,Not at all,Not at all,Not at all,Several days,3,Minimal,Average,Good,Good
+25,Female,Nearly every day,Several days,Several days,Not at all,Several days,Several days,Nearly every day,More than half the days,Not at all,12,Moderate,Good,Bad,Bad
+18,Female,More than half the days,Nearly every day,More than half the days,Nearly every day,More than half the days,Several days,More than half the days,More than half the days,Nearly every day,20,Severe,Average,Bad,Worst
+22,Male,Not at all,Not at all,Not at all,Several days,Several days,Not at all,Several days,Several days,Nearly every day,7,Mild,Average,Bad,Good
+25,Female,More than half the days,More than half the days,More than half the days,Not at all,Nearly every day,Nearly every day,Not at all,Nearly every day,Nearly every day,18,Moderately severe,Good,Good,Average
+20,Male,Several days,Nearly every day,Several days,Nearly every day,Several days,Several days,Not at all,Not at all,More than half the days,12,Moderate,Average,Average,Good
+22,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,1,Minimal,Bad,Average,Good
+19,Male,Several days,Not at all,More than half the days,Not at all,Several days,Several days,More than half the days,Not at all,Not at all,7,Mild,Average,Bad,Good
+19,Male,Several days,Several days,Not at all,More than half the days,More than half the days,Not at all,Several days,Not at all,Not at all,7,Mild,Good,Average,Average
+25,Male,More than half the days,Several days,Nearly every day,Several days,Several days,Several days,Not at all,Not at all,Nearly every day,12,Moderate,Bad,Bad,Good
+24,Male,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,26,Severe,Bad,Worst,Worst
+21,Male,Not at all,Not at all,Not at all,Not at all,Not at all,More than half the days,Not at all,Not at all,Not at all,2,Minimal,Good,Average,Worst
+19,Female,Nearly every day,Nearly every day,More than half the days,More than half the days,Several days,More than half the days,Nearly every day,Not at all,More than half the days,18,Moderately severe,Worst,Average,Worst
+18,Female,Several days,Several days,Not at all,Not at all,Not at all,Several days,Several days,Several days,Several days,6,Mild,Good,Good,Average
+19,Female,Not at all,Nearly every day,More than half the days,Nearly every day,More than half the days,Several days,Nearly every day,Several days,Not at all,15,Moderately severe,Worst,Worst,Bad
+22,Female,More than half the days,Not at all,More than half the days,Nearly every day,Several days,More than half the days,More than half the days,Several days,Several days,14,Moderate,Worst,Good,Bad
+24,Male,Several days,Several days,Not at all,Nearly every day,Several days,More than half the days,Not at all,Several days,Not at all,9,Mild,Good,Bad,Average
+20,Male,Several days,Nearly every day,Nearly every day,Several days,Nearly every day,Nearly every day,Not at all,Nearly every day,Nearly every day,20,Severe,Average,Worst,Bad
+25,Female,Not at all,Not at all,Not at all,Nearly every day,More than half the days,Several days,Not at all,Not at all,Not at all,6,Mild,Good,Bad,Good
+18,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Average,Bad
+26,Male,Not at all,Not at all,Not at all,Not at all,Several days,Several days,Not at all,Not at all,Not at all,2,Minimal,Good,Worst,Good
+22,Female,More than half the days,Nearly every day,More than half the days,Nearly every day,More than half the days,More than half the days,Nearly every day,Nearly every day,Nearly every day,23,Severe,Worst,Bad,Average
+25,Male,Nearly every day,Several days,Not at all,Nearly every day,Not at all,Not at all,Not at all,More than half the days,Not at all,9,Mild,Good,Bad,Average
+22,Female,Nearly every day,Several days,Nearly every day,Several days,Nearly every day,More than half the days,Not at all,Nearly every day,Several days,17,Moderately severe,Average,Bad,Bad
+23,Male,Not at all,Several days,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Several days,3,Minimal,Average,Good,Bad
+25,Male,Not at all,Several days,Several days,Several days,Not at all,Not at all,Several days,Nearly every day,Several days,8,Mild,Good,Average,Bad
+17,Male,More than half the days,More than half the days,Several days,More than half the days,Nearly every day,Nearly every day,Not at all,Nearly every day,Nearly every day,19,Moderately severe,Worst,Worst,Worst
+23,Male,Several days,Several days,Nearly every day,More than half the days,More than half the days,Several days,Nearly every day,Nearly every day,Several days,17,Moderately severe,Average,Worst,Good
+26,Male,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,27,Severe,Average,Worst,Bad
+23,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Average,Good,Average
+26,Female,More than half the days,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,25,Severe,Worst,Bad,Good
+17,Female,Several days,Not at all,Several days,Not at all,Several days,More than half the days,Not at all,More than half the days,Several days,8,Mild,Bad,Bad,Good
+25,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,1,Minimal,Average,Good,Average
+21,Female,Nearly every day,More than half the days,Several days,More than half the days,Several days,Several days,Nearly every day,Not at all,Several days,14,Moderate,Bad,Good,Good
+25,Male,More than half the days,Not at all,Several days,Several days,Not at all,Several days,Several days,Not at all,Several days,7,Mild,Good,Average,Average
+17,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,1,Minimal,Good,Good,Good
+17,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Average,Good,Good
+22,Male,Nearly every day,Several days,More than half the days,Several days,More than half the days,Several days,Several days,Several days,Nearly every day,15,Moderately severe,Worst,Average,Average
+23,Male,Not at all,Several days,Several days,Several days,Several days,Not at all,Several days,Several days,Not at all,6,Mild,Worst,Good,Worst
+23,Male,Not at all,More than half the days,Several days,Not at all,Several days,More than half the days,Several days,Several days,Not at all,8,Mild,Average,Good,Bad
+25,Male,Several days,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,3,Minimal,Good,Worst,Worst
+20,Male,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Several days,Several days,Several days,4,Minimal,Average,Good,Average
+17,Male,Several days,Nearly every day,More than half the days,More than half the days,More than half the days,Nearly every day,More than half the days,More than half the days,More than half the days,19,Moderately severe,Average,Bad,Average
+19,Male,Several days,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Several days,Not at all,4,Minimal,Bad,Average,Average
+24,Male,Not at all,Several days,Several days,More than half the days,Not at all,Nearly every day,Several days,Not at all,More than half the days,10,Moderate,Bad,Average,Average
+24,Female,Not at all,Several days,More than half the days,Several days,Not at all,More than half the days,Nearly every day,Nearly every day,Nearly every day,15,Moderately severe,Bad,Worst,Worst
+18,Male,More than half the days,Not at all,Not at all,Several days,Not at all,More than half the days,Nearly every day,Nearly every day,Not at all,11,Moderate,Bad,Bad,Good
+26,Male,Not at all,Not at all,Several days,More than half the days,Several days,Not at all,Several days,Not at all,Several days,6,Mild,Average,Good,Average
+23,Male,Not at all,Several days,Not at all,Several days,Not at all,Not at all,Not at all,More than half the days,Several days,5,Mild,Good,Average,Good
+25,Male,Nearly every day,Not at all,Several days,More than half the days,Several days,Nearly every day,Nearly every day,Not at all,Nearly every day,16,Moderately severe,Worst,Worst,Bad
+21,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Bad,Average
+23,Male,More than half the days,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,25,Severe,Worst,Bad,Bad
+21,Male,Several days,Several days,Several days,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,4,Minimal,Good,Average,Good
+26,Male,Nearly every day,Several days,More than half the days,Several days,More than half the days,Several days,More than half the days,More than half the days,More than half the days,16,Moderately severe,Worst,Average,Bad
+24,Female,Nearly every day,More than half the days,More than half the days,Not at all,More than half the days,More than half the days,Several days,Not at all,More than half the days,14,Moderate,Average,Worst,Average
+21,Female,Not at all,Nearly every day,Several days,More than half the days,Nearly every day,Not at all,Not at all,Not at all,Not at all,9,Mild,Good,Good,Bad
+20,Female,Not at all,Several days,More than half the days,Not at all,Several days,Nearly every day,Nearly every day,Several days,Not at all,11,Moderate,Worst,Worst,Worst
+26,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Average,Worst
+17,Female,Several days,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,More than half the days,4,Minimal,Good,Average,Average
+17,Male,More than half the days,Not at all,Several days,Several days,Not at all,Not at all,Several days,More than half the days,Not at all,7,Mild,Worst,Average,Average
+21,Female,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,1,Minimal,Bad,Good,Average
+19,Male,Nearly every day,Several days,Several days,Several days,More than half the days,Several days,Nearly every day,Nearly every day,Several days,16,Moderately severe,Bad,Average,Bad
+24,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Several days,Not at all,2,Minimal,Average,Good,Good
+24,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Several days,2,Minimal,Good,Good,Bad
+25,Male,Nearly every day,Several days,Nearly every day,Several days,Nearly every day,Nearly every day,Nearly every day,Not at all,Nearly every day,20,Severe,Bad,Worst,Good
+21,Female,Nearly every day,Not at all,Nearly every day,Nearly every day,Not at all,Nearly every day,Nearly every day,Nearly every day,Nearly every day,21,Severe,Bad,Bad,Worst
+20,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Average,Good,Average
+23,Male,Not at all,Several days,Not at all,More than half the days,Not at all,Not at all,Not at all,Not at all,Not at all,3,Minimal,Average,Bad,Average
+19,Female,Not at all,Not at all,Several days,Several days,Not at all,Several days,Not at all,More than half the days,Not at all,5,Mild,Average,Bad,Average
+21,Male,Not at all,Nearly every day,More than half the days,Not at all,Not at all,Nearly every day,Several days,More than half the days,Several days,12,Moderate,Bad,Worst,Worst
+25,Male,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,2,Minimal,Good,Worst,Average
+18,Female,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,1,Minimal,Good,Good,Average
+20,Female,Several days,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Several days,Not at all,3,Minimal,Good,Good,Good
+19,Male,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,27,Severe,Bad,Worst,Worst
+21,Female,Not at all,Not at all,Nearly every day,More than half the days,More than half the days,Not at all,Several days,More than half the days,Nearly every day,13,Moderate,Average,Bad,Good
+23,Female,Several days,Several days,Not at all,Several days,Several days,Not at all,Not at all,More than half the days,Several days,7,Mild,Bad,Good,Bad
+25,Male,Nearly every day,Not at all,Several days,More than half the days,Several days,Not at all,Nearly every day,Not at all,Not at all,10,Moderate,Average,Bad,Bad
+19,Female,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Several days,Not at all,More than half the days,4,Minimal,Good,Good,Average
+18,Male,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,1,Minimal,Good,Good,Good
+25,Male,More than half the days,Not at all,Several days,Several days,Several days,Several days,More than half the days,Not at all,More than half the days,10,Moderate,Bad,Bad,Good
+20,Female,Not at all,Not at all,Not at all,Several days,Not at all,Several days,More than half the days,Not at all,Not at all,4,Minimal,Average,Average,Average
+22,Male,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,Nearly every day,Nearly every day,Several days,Nearly every day,20,Severe,Average,Worst,Average
+18,Male,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,2,Minimal,Good,Good,Good
+18,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Average,Bad,Good
+24,Female,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,25,Severe,Average,Bad,Worst
+21,Female,Nearly every day,Several days,Several days,Nearly every day,Several days,Nearly every day,Nearly every day,Nearly every day,More than half the days,20,Severe,Worst,Average,Worst
+18,Male,Nearly every day,Nearly every day,Several days,Several days,Not at all,Several days,Not at all,More than half the days,Several days,12,Moderate,Bad,Worst,Average
+22,Female,Nearly every day,Not at all,Nearly every day,More than half the days,More than half the days,Nearly every day,Nearly every day,Nearly every day,More than half the days,21,Severe,Average,Worst,Bad
+19,Female,More than half the days,Several days,Nearly every day,Not at all,Nearly every day,Not at all,Not at all,Not at all,Not at all,9,Mild,Good,Bad,Average
+18,Male,Nearly every day,Nearly every day,Several days,More than half the days,Nearly every day,More than half the days,More than half the days,More than half the days,More than half the days,20,Severe,Worst,Worst,Worst
+18,Female,Not at all,Nearly every day,More than half the days,Several days,Several days,More than half the days,Nearly every day,Nearly every day,More than half the days,17,Moderately severe,Bad,Bad,Bad
+18,Male,Not at all,Several days,Several days,Not at all,Several days,Several days,Not at all,Several days,Not at all,5,Mild,Good,Average,Good
+17,Female,Nearly every day,Several days,Several days,Nearly every day,Nearly every day,More than half the days,More than half the days,Nearly every day,Several days,19,Moderately severe,Worst,Average,Average
+25,Male,Several days,More than half the days,Several days,Nearly every day,More than half the days,Several days,Several days,Not at all,Several days,12,Moderate,Worst,Average,Good
+20,Female,Not at all,Not at all,Several days,More than half the days,Not at all,Not at all,Several days,Not at all,More than half the days,6,Mild,Worst,Average,Average
+24,Male,Not at all,Several days,Nearly every day,Several days,Several days,Several days,Not at all,Several days,Not at all,8,Mild,Average,Good,Bad
+20,Male,Not at all,More than half the days,Several days,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,4,Minimal,Good,Average,Good
+23,Male,Not at all,Several days,Nearly every day,Not at all,Nearly every day,More than half the days,More than half the days,Nearly every day,More than half the days,16,Moderately severe,Good,Bad,Good
+23,Male,Nearly every day,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,26,Severe,Worst,Average,Average
+20,Male,Not at all,Not at all,Not at all,More than half the days,Not at all,Not at all,Not at all,More than half the days,Not at all,4,Minimal,Good,Good,Worst
+18,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,More than half the days,Several days,4,Minimal,Good,Average,Good
+26,Male,More than half the days,Not at all,Several days,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,4,Minimal,Bad,Good,Average
+23,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,1,Minimal,Good,Bad,Average
+17,Male,Several days,Nearly every day,Several days,Not at all,More than half the days,More than half the days,Several days,Several days,Several days,12,Moderate,Average,Average,Average
+25,Female,Nearly every day,Several days,More than half the days,Nearly every day,Nearly every day,Several days,More than half the days,Several days,Nearly every day,19,Moderately severe,Good,Bad,Average
+22,Female,Nearly every day,Not at all,Not at all,Not at all,More than half the days,Nearly every day,Nearly every day,More than half the days,Several days,14,Moderate,Average,Bad,Good
+24,Male,Nearly every day,Nearly every day,Several days,Nearly every day,Several days,More than half the days,Not at all,More than half the days,Nearly every day,18,Moderately severe,Good,Worst,Bad
+25,Female,More than half the days,Nearly every day,Several days,Not at all,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Several days,19,Moderately severe,Average,Bad,Worst
+20,Female,Several days,Several days,Nearly every day,Several days,Not at all,Not at all,More than half the days,Not at all,Several days,9,Mild,Good,Average,Average
+22,Female,More than half the days,Not at all,Several days,Nearly every day,More than half the days,More than half the days,Several days,More than half the days,Several days,14,Moderate,Bad,Bad,Bad
+17,Male,Not at all,Several days,Not at all,More than half the days,Several days,Not at all,Several days,Not at all,More than half the days,7,Mild,Average,Good,Good
+25,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Bad,Worst
+21,Male,Not at all,Several days,Not at all,Not at all,Several days,Several days,Not at all,Not at all,Several days,4,Minimal,Bad,Average,Average
+17,Male,More than half the days,Several days,Not at all,More than half the days,Several days,Several days,Not at all,Not at all,More than half the days,9,Mild,Good,Average,Good
+23,Female,Nearly every day,Several days,More than half the days,Not at all,Several days,Several days,More than half the days,Nearly every day,Not at all,13,Moderate,Average,Worst,Worst
+22,Female,More than half the days,More than half the days,Several days,Not at all,More than half the days,Several days,Several days,Not at all,Several days,10,Moderate,Bad,Worst,Bad
+22,Female,Nearly every day,Several days,More than half the days,More than half the days,Several days,Not at all,Not at all,Not at all,Not at all,9,Mild,Good,Bad,Average
+23,Male,Several days,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,2,Minimal,Bad,Average,Average
+21,Male,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,1,Minimal,Good,Average,Bad
+25,Male,Several days,More than half the days,Several days,Several days,More than half the days,Nearly every day,Nearly every day,More than half the days,Not at all,15,Moderately severe,Worst,Bad,Bad
+24,Female,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,Nearly every day,Several days,Nearly every day,Nearly every day,24,Severe,Good,Worst,Average
+20,Male,Several days,More than half the days,Nearly every day,More than half the days,Several days,Not at all,Several days,Nearly every day,Nearly every day,16,Moderately severe,Worst,Worst,Bad
+20,Male,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,1,Minimal,Good,Good,Bad
+19,Male,Several days,Not at all,Several days,Several days,Several days,Several days,Not at all,Not at all,Not at all,5,Mild,Worst,Bad,Good
+23,Male,Not at all,More than half the days,Several days,Not at all,Not at all,Not at all,Nearly every day,Nearly every day,More than half the days,11,Moderate,Good,Worst,Average
+17,Female,Not at all,Not at all,Several days,Several days,Not at all,More than half the days,More than half the days,More than half the days,Not at all,8,Mild,Average,Good,Average
+21,Male,Several days,Several days,Not at all,Several days,Not at all,Not at all,Several days,Not at all,Not at all,4,Minimal,Bad,Average,Good
+17,Male,Nearly every day,More than half the days,Several days,More than half the days,More than half the days,Several days,Several days,More than half the days,Nearly every day,17,Moderately severe,Bad,Average,Bad
+25,Female,More than half the days,More than half the days,Not at all,Nearly every day,More than half the days,Several days,Not at all,Nearly every day,Not at all,13,Moderate,Bad,Average,Worst
+22,Female,Several days,Not at all,More than half the days,Not at all,Several days,Not at all,Not at all,Several days,Several days,6,Mild,Average,Bad,Good
+19,Female,Several days,Several days,Not at all,More than half the days,Several days,Not at all,More than half the days,Several days,Not at all,8,Mild,Average,Good,Good
+24,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,1,Minimal,Average,Average,Good
+25,Female,Not at all,More than half the days,Not at all,Several days,Several days,Several days,Not at all,Several days,Not at all,6,Mild,Average,Bad,Bad
+23,Male,Several days,Several days,Nearly every day,Several days,Not at all,Nearly every day,Several days,Several days,More than half the days,13,Moderate,Worst,Bad,Bad
+25,Male,Not at all,Nearly every day,Not at all,Not at all,Not at all,Several days,More than half the days,Not at all,Several days,7,Mild,Good,Good,Good
+22,Female,Several days,Several days,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Several days,5,Mild,Good,Good,Bad
+22,Male,Not at all,Several days,Not at all,More than half the days,Not at all,Several days,Not at all,Not at all,Several days,5,Mild,Worst,Average,Bad
+21,Female,More than half the days,Several days,Several days,Several days,Nearly every day,More than half the days,More than half the days,More than half the days,Several days,15,Moderately severe,Worst,Worst,Worst
+22,Male,Several days,More than half the days,Not at all,Nearly every day,More than half the days,Several days,Nearly every day,Not at all,Not at all,12,Moderate,Average,Bad,Worst
+21,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Several days,2,Minimal,Average,Good,Good
+22,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Average,Average
+17,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Average,Average
+23,Male,Nearly every day,More than half the days,More than half the days,Not at all,Not at all,More than half the days,More than half the days,Nearly every day,More than half the days,16,Moderately severe,Bad,Worst,Worst
+18,Male,Not at all,Several days,Not at all,Several days,Not at all,Several days,Not at all,Not at all,Several days,4,Minimal,Good,Good,Average
+17,Male,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,1,Minimal,Good,Average,Average
+25,Male,Nearly every day,Nearly every day,More than half the days,Nearly every day,Several days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,24,Severe,Average,Worst,Worst
+18,Male,Several days,Several days,Several days,More than half the days,Not at all,Not at all,More than half the days,Several days,Not at all,8,Mild,Worst,Worst,Good
+26,Male,Nearly every day,Not at all,Not at all,More than half the days,Nearly every day,Not at all,Several days,Not at all,More than half the days,11,Moderate,Worst,Average,Bad
+18,Male,Not at all,Several days,Several days,Not at all,More than half the days,Several days,Not at all,Several days,Several days,7,Mild,Average,Average,Worst
+22,Female,Not at all,Not at all,Not at all,Not at all,Several days,Several days,Not at all,Not at all,Several days,3,Minimal,Good,Bad,Bad
+20,Female,Not at all,Several days,More than half the days,More than half the days,Nearly every day,More than half the days,More than half the days,More than half the days,Several days,15,Moderately severe,Average,Average,Good
+17,Female,Several days,More than half the days,More than half the days,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,22,Severe,Worst,Worst,Average
+17,Male,More than half the days,Several days,Not at all,More than half the days,Not at all,Not at all,Not at all,Not at all,Not at all,5,Mild,Average,Average,Good
+21,Female,More than half the days,More than half the days,Several days,Nearly every day,Several days,Several days,Several days,More than half the days,Several days,14,Moderate,Good,Good,Bad
+24,Male,Nearly every day,Nearly every day,Not at all,Several days,Nearly every day,Nearly every day,Nearly every day,Not at all,Nearly every day,19,Moderately severe,Worst,Bad,Worst
+19,Male,More than half the days,Several days,More than half the days,More than half the days,Not at all,Nearly every day,More than half the days,Nearly every day,Nearly every day,18,Moderately severe,Worst,Bad,Average
+18,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Bad,Good,Average
+23,Male,Nearly every day,Several days,Several days,Several days,Several days,Several days,More than half the days,Nearly every day,Several days,14,Moderate,Bad,Bad,Bad
+17,Female,Several days,Nearly every day,Several days,More than half the days,Nearly every day,More than half the days,Several days,Several days,Nearly every day,17,Moderately severe,Bad,Bad,Bad
+20,Male,Not at all,Not at all,More than half the days,Several days,Several days,Not at all,Not at all,Not at all,Not at all,4,Minimal,Good,Average,Average
+19,Male,Not at all,Nearly every day,Not at all,Not at all,Not at all,Not at all,Not at all,More than half the days,Several days,6,Mild,Bad,Good,Average
+22,Female,Not at all,More than half the days,Not at all,Nearly every day,Several days,Not at all,Not at all,Several days,Not at all,7,Mild,Bad,Bad,Average
+17,Male,More than half the days,More than half the days,More than half the days,Nearly every day,Several days,Several days,Nearly every day,Several days,Nearly every day,18,Moderately severe,Good,Worst,Average
+25,Female,More than half the days,Several days,Nearly every day,Nearly every day,Several days,Nearly every day,Several days,Nearly every day,More than half the days,19,Moderately severe,Good,Worst,Bad
+17,Female,Not at all,Several days,Not at all,Several days,Not at all,Several days,Not at all,Several days,More than half the days,6,Mild,Good,Bad,Average
+23,Female,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Several days,2,Minimal,Average,Good,Bad
+26,Male,Several days,More than half the days,More than half the days,Nearly every day,Nearly every day,More than half the days,Not at all,Several days,Not at all,14,Moderate,Worst,Bad,Bad
+26,Female,Nearly every day,Nearly every day,Not at all,Nearly every day,Nearly every day,Nearly every day,Several days,Nearly every day,Nearly every day,22,Severe,Average,Good,Worst
+19,Male,Several days,More than half the days,Not at all,Not at all,More than half the days,Not at all,Several days,Not at all,More than half the days,8,Mild,Average,Good,Good
+17,Male,Nearly every day,Several days,More than half the days,Several days,More than half the days,Several days,More than half the days,Nearly every day,Several days,16,Moderately severe,Bad,Bad,Bad
+25,Female,Several days,Nearly every day,Not at all,Not at all,Several days,More than half the days,Not at all,Nearly every day,Not at all,10,Moderate,Worst,Average,Good
+25,Male,More than half the days,Several days,Several days,More than half the days,Nearly every day,Not at all,Nearly every day,More than half the days,Nearly every day,17,Moderately severe,Worst,Worst,Average
+21,Female,More than half the days,Several days,Several days,Not at all,Not at all,Not at all,More than half the days,Not at all,Several days,7,Mild,Bad,Average,Bad
+21,Female,Several days,Nearly every day,Several days,Nearly every day,Several days,Not at all,More than half the days,Not at all,Several days,12,Moderate,Average,Average,Worst
+18,Male,Nearly every day,More than half the days,Not at all,Several days,Several days,Several days,Several days,Not at all,More than half the days,11,Moderate,Average,Average,Good
+20,Female,Not at all,Several days,More than half the days,More than half the days,Several days,Several days,Not at all,Not at all,Nearly every day,10,Moderate,Average,Worst,Average
+23,Female,Nearly every day,Nearly every day,Nearly every day,More than half the days,More than half the days,More than half the days,Nearly every day,Nearly every day,Nearly every day,24,Severe,Average,Bad,Worst
+24,Male,Not at all,Not at all,Not at all,Not at all,Several days,Several days,Not at all,Not at all,Not at all,2,Minimal,Average,Good,Good
+19,Male,Several days,More than half the days,More than half the days,Several days,Several days,Several days,Nearly every day,Nearly every day,More than half the days,16,Moderately severe,Worst,Average,Bad
+17,Male,Nearly every day,Several days,Nearly every day,More than half the days,Nearly every day,Nearly every day,More than half the days,More than half the days,Nearly every day,22,Severe,Worst,Worst,Worst
+26,Female,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Several days,2,Minimal,Worst,Average,Average
+23,Male,More than half the days,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Not at all,22,Severe,Bad,Bad,Average
+17,Female,Several days,Not at all,Not at all,Several days,Not at all,Not at all,Several days,Not at all,Not at all,3,Minimal,Average,Good,Good
+21,Female,Several days,Nearly every day,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,24,Severe,Worst,Worst,Worst
+19,Female,More than half the days,Not at all,Not at all,More than half the days,Not at all,Nearly every day,Not at all,Not at all,Several days,8,Mild,Bad,Average,Average
+22,Male,Several days,Not at all,Not at all,More than half the days,More than half the days,Several days,Nearly every day,More than half the days,Several days,12,Moderate,Average,Average,Good
+22,Male,More than half the days,More than half the days,More than half the days,Not at all,Not at all,Several days,Nearly every day,Not at all,Not at all,10,Moderate,Average,Worst,Bad
+24,Female,Several days,More than half the days,Not at all,Not at all,Nearly every day,Several days,More than half the days,More than half the days,More than half the days,13,Moderate,Good,Average,Good
+23,Female,Several days,Not at all,More than half the days,Nearly every day,Nearly every day,More than half the days,More than half the days,Nearly every day,More than half the days,18,Moderately severe,Worst,Bad,Bad
+20,Male,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,2,Minimal,Average,Bad,Good
+21,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Good,Worst
+21,Male,Not at all,Not at all,Several days,Not at all,Several days,Several days,Several days,Not at all,Not at all,4,Minimal,Average,Average,Good
+26,Male,Not at all,Several days,Not at all,More than half the days,Not at all,Not at all,Not at all,Not at all,Several days,4,Minimal,Average,Good,Good
+22,Male,More than half the days,More than half the days,More than half the days,Several days,Several days,More than half the days,Several days,Several days,Nearly every day,15,Moderately severe,Bad,Average,Average
+18,Female,More than half the days,Not at all,Not at all,More than half the days,Several days,Several days,Nearly every day,Several days,Not at all,10,Moderate,Good,Worst,Average
+26,Female,Several days,Not at all,Several days,Not at all,Not at all,More than half the days,Not at all,More than half the days,Several days,7,Mild,Average,Average,Bad
+23,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,1,Minimal,Good,Bad,Worst
+17,Male,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,More than half the days,More than half the days,More than half the days,23,Severe,Worst,Bad,Bad
+20,Male,Not at all,Not at all,Not at all,Several days,Several days,Several days,Not at all,Not at all,Several days,4,Minimal,Good,Good,Good
+17,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,More than half the days,3,Minimal,Average,Good,Average
+21,Male,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,1,Minimal,Good,Average,Bad
+20,Male,Several days,Several days,Several days,Several days,Several days,Not at all,More than half the days,More than half the days,Several days,10,Moderate,Average,Average,Bad
+25,Female,Nearly every day,More than half the days,Several days,Nearly every day,Not at all,Nearly every day,Several days,More than half the days,More than half the days,17,Moderately severe,Worst,Worst,Bad
+25,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Good,Good
+25,Male,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Not at all,Several days,Several days,4,Minimal,Good,Bad,Average
+20,Male,Several days,Several days,Nearly every day,Nearly every day,Not at all,More than half the days,Several days,Several days,More than half the days,14,Moderate,Good,Average,Good
+19,Female,Not at all,Not at all,Nearly every day,More than half the days,More than half the days,Several days,Nearly every day,Several days,Several days,13,Moderate,Bad,Worst,Bad
+22,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Average,Average,Good
+20,Male,Nearly every day,Not at all,Not at all,Not at all,Not at all,More than half the days,More than half the days,Not at all,Not at all,7,Mild,Average,Bad,Bad
+24,Male,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,26,Severe,Bad,Worst,Average
+25,Male,Nearly every day,Several days,More than half the days,Several days,Several days,Several days,More than half the days,More than half the days,More than half the days,15,Moderately severe,Average,Worst,Bad
+18,Male,Several days,More than half the days,Not at all,Several days,More than half the days,Not at all,Several days,More than half the days,Not at all,9,Mild,Good,Average,Average
+23,Female,Several days,Several days,More than half the days,Several days,More than half the days,Nearly every day,More than half the days,Nearly every day,Not at all,15,Moderately severe,Bad,Average,Bad
+20,Male,Not at all,Not at all,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Not at all,2,Minimal,Good,Good,Good
+25,Male,Not at all,Several days,Several days,Several days,Not at all,Not at all,Several days,Not at all,Several days,5,Mild,Good,Bad,Average
+18,Female,More than half the days,Not at all,Not at all,Several days,Not at all,Several days,Several days,Not at all,Not at all,5,Mild,Average,Average,Average
+22,Male,Several days,More than half the days,Nearly every day,Nearly every day,Several days,Nearly every day,Several days,More than half the days,Nearly every day,19,Moderately severe,Worst,Worst,Bad
+18,Female,Not at all,Not at all,Several days,More than half the days,Not at all,More than half the days,Nearly every day,Several days,Not at all,9,Mild,Good,Average,Average
+20,Female,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Several days,Not at all,3,Minimal,Good,Good,Average
+17,Female,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,27,Severe,Worst,Average,Worst
+20,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Average,Good
+24,Female,Several days,Several days,Nearly every day,More than half the days,Several days,Nearly every day,More than half the days,More than half the days,Several days,16,Moderately severe,Bad,Bad,Worst
+26,Female,Nearly every day,Nearly every day,Not at all,Several days,Nearly every day,Several days,Several days,Several days,Not at all,13,Moderate,Bad,Average,Average
+17,Female,Not at all,Nearly every day,Nearly every day,More than half the days,Nearly every day,More than half the days,Nearly every day,Nearly every day,Several days,20,Severe,Worst,Bad,Average
+17,Female,Several days,Not at all,More than half the days,Several days,Not at all,Not at all,Several days,Not at all,Several days,6,Mild,Good,Good,Good
+21,Male,Several days,More than half the days,More than half the days,Several days,Nearly every day,Not at all,Several days,Nearly every day,Not at all,13,Moderate,Worst,Bad,Average
+20,Female,More than half the days,More than half the days,Nearly every day,More than half the days,Nearly every day,Not at all,Nearly every day,Nearly every day,Not at all,18,Moderately severe,Bad,Average,Worst
+17,Male,Several days,More than half the days,Several days,More than half the days,Nearly every day,More than half the days,Several days,Nearly every day,Nearly every day,18,Moderately severe,Average,Worst,Bad
+24,Male,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,1,Minimal,Good,Good,Average
+22,Male,More than half the days,Several days,Several days,Not at all,More than half the days,Not at all,Not at all,Nearly every day,Several days,10,Moderate,Worst,Average,Bad
+25,Female,Several days,Not at all,Several days,More than half the days,Nearly every day,More than half the days,Not at all,More than half the days,Several days,12,Moderate,Average,Good,Average
+26,Female,Nearly every day,Not at all,Not at all,Nearly every day,Several days,Several days,Several days,Several days,More than half the days,12,Moderate,Average,Good,Good
+25,Female,Several days,Not at all,Several days,Nearly every day,Several days,Several days,More than half the days,Not at all,More than half the days,11,Moderate,Bad,Average,Average
+18,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Good,Good
+24,Male,More than half the days,Not at all,Not at all,Nearly every day,Not at all,More than half the days,Not at all,Nearly every day,Nearly every day,13,Moderate,Good,Bad,Good
+18,Male,Several days,Several days,More than half the days,Several days,Nearly every day,More than half the days,More than half the days,Several days,More than half the days,15,Moderately severe,Average,Average,Average
+21,Male,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,More than half the days,Not at all,3,Minimal,Good,Average,Average
+18,Male,Not at all,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Not at all,Several days,3,Minimal,Good,Bad,Average
+26,Male,Several days,Not at all,Not at all,Not at all,Nearly every day,Several days,Not at all,More than half the days,Not at all,7,Mild,Good,Bad,Worst
+19,Male,Several days,More than half the days,Not at all,Not at all,Several days,Not at all,Several days,Nearly every day,Several days,9,Mild,Average,Good,Bad
+19,Male,Not at all,Nearly every day,Nearly every day,Not at all,More than half the days,Several days,Nearly every day,Not at all,Several days,13,Moderate,Good,Average,Bad
+24,Male,Several days,Several days,Several days,Not at all,Not at all,Several days,Not at all,Several days,Not at all,5,Mild,Good,Good,Average
+20,Male,Nearly every day,Several days,More than half the days,Nearly every day,Several days,Not at all,Nearly every day,More than half the days,Nearly every day,18,Moderately severe,Worst,Average,Bad
+21,Male,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,More than half the days,Nearly every day,Nearly every day,Nearly every day,25,Severe,Bad,Worst,Worst
+25,Female,Not at all,Several days,Not at all,More than half the days,Nearly every day,Nearly every day,Nearly every day,Several days,Nearly every day,16,Moderately severe,Bad,Average,Average
+21,Female,Several days,Not at all,More than half the days,Not at all,Not at all,Not at all,More than half the days,Not at all,More than half the days,7,Mild,Good,Average,Average
+19,Male,Not at all,Several days,Several days,Several days,Not at all,Not at all,Not at all,Not at all,Several days,4,Minimal,Good,Average,Bad
+18,Male,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,2,Minimal,Good,Average,Good
+23,Male,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Several days,Nearly every day,24,Severe,Average,Worst,Worst
+18,Male,Several days,Several days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Several days,More than half the days,Several days,18,Moderately severe,Average,Good,Bad
+17,Female,Several days,Nearly every day,Several days,Several days,Several days,Not at all,Nearly every day,More than half the days,Not at all,12,Moderate,Good,Average,Good
+18,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Average,Good
+25,Male,Not at all,Not at all,Not at all,More than half the days,Several days,More than half the days,Not at all,Not at all,Not at all,5,Mild,Good,Good,Average
+25,Male,Several days,Not at all,Nearly every day,Not at all,Not at all,Nearly every day,Not at all,More than half the days,Several days,10,Moderate,Average,Average,Good
+24,Male,Not at all,Several days,Several days,Not at all,Several days,Several days,Several days,Not at all,Not at all,5,Mild,Good,Good,Good
+21,Male,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,2,Minimal,Good,Good,Bad
+22,Male,Several days,Not at all,Nearly every day,Nearly every day,More than half the days,Nearly every day,Not at all,More than half the days,Nearly every day,17,Moderately severe,Bad,Bad,Average
+22,Male,Several days,Several days,Not at all,Nearly every day,Nearly every day,More than half the days,Several days,Not at all,Nearly every day,14,Moderate,Bad,Good,Bad
+20,Male,More than half the days,Several days,Nearly every day,Several days,Nearly every day,More than half the days,More than half the days,Nearly every day,More than half the days,19,Moderately severe,Good,Bad,Average
+24,Male,Not at all,Several days,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,2,Minimal,Average,Average,Bad
+25,Male,More than half the days,Several days,Several days,More than half the days,Nearly every day,Several days,Nearly every day,Nearly every day,More than half the days,18,Moderately severe,Bad,Worst,Average
+18,Female,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,1,Minimal,Good,Good,Good
+23,Male,More than half the days,Not at all,More than half the days,Nearly every day,Nearly every day,Nearly every day,Several days,Not at all,Not at all,14,Moderate,Bad,Average,Worst
+23,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Bad,Good,Bad
+17,Male,Several days,More than half the days,Nearly every day,Not at all,More than half the days,Nearly every day,Nearly every day,More than half the days,Not at all,16,Moderately severe,Good,Bad,Average
+19,Female,Not at all,Nearly every day,Several days,Not at all,Several days,Not at all,Several days,Several days,Not at all,7,Mild,Good,Bad,Bad
+20,Male,More than half the days,Several days,Several days,Several days,More than half the days,Nearly every day,Not at all,Nearly every day,Nearly every day,16,Moderately severe,Worst,Good,Bad
+25,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Average,Bad,Average
+24,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,1,Minimal,Good,Good,Good
+18,Male,More than half the days,Several days,Several days,Several days,Not at all,Not at all,Not at all,Not at all,Several days,6,Mild,Good,Average,Good
+17,Female,Not at all,Not at all,Not at all,Several days,Several days,Several days,Not at all,Not at all,Not at all,3,Minimal,Good,Average,Average
+21,Female,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Several days,Nearly every day,Nearly every day,Nearly every day,25,Severe,Bad,Worst,Bad
+26,Male,Several days,Not at all,More than half the days,Not at all,Several days,Several days,Not at all,Several days,Several days,7,Mild,Average,Bad,Average
+24,Female,More than half the days,Nearly every day,More than half the days,Nearly every day,Nearly every day,Not at all,Nearly every day,More than half the days,Several days,19,Moderately severe,Bad,Worst,Bad
+26,Male,Several days,More than half the days,Several days,Several days,Several days,Several days,More than half the days,More than half the days,Not at all,11,Moderate,Average,Average,Bad
+18,Female,Not at all,Not at all,Not at all,Not at all,Several days,More than half the days,Not at all,Not at all,Several days,4,Minimal,Average,Average,Good
+26,Male,Not at all,More than half the days,Not at all,Several days,Several days,Not at all,Not at all,Several days,More than half the days,7,Mild,Good,Good,Average
+19,Male,Several days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Not at all,Several days,20,Severe,Bad,Worst,Average
+22,Male,Nearly every day,Not at all,Several days,More than half the days,More than half the days,Not at all,Nearly every day,Several days,Not at all,12,Moderate,Bad,Bad,Bad
+20,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,1,Minimal,Average,Average,Average
+21,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Good,Worst
+19,Male,Nearly every day,Not at all,More than half the days,Nearly every day,Several days,Several days,Several days,Nearly every day,Several days,15,Moderately severe,Bad,Bad,Good
+18,Female,Not at all,More than half the days,Several days,Several days,Several days,Several days,Several days,Several days,Several days,9,Mild,Good,Average,Good
+21,Female,More than half the days,Not at all,Nearly every day,More than half the days,Several days,More than half the days,Nearly every day,Several days,Not at all,14,Moderate,Average,Bad,Average
+19,Male,Not at all,Several days,Not at all,Several days,Not at all,Several days,Several days,Not at all,Not at all,4,Minimal,Good,Good,Good
+17,Female,Several days,Several days,More than half the days,Several days,Nearly every day,Several days,Several days,Several days,Several days,12,Moderate,Average,Good,Average
+21,Female,Nearly every day,More than half the days,Nearly every day,More than half the days,Several days,Not at all,Several days,Several days,Several days,14,Moderate,Average,Average,Worst
+18,Male,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,Minimal,Good,Good,Good
+26,Male,Not at all,Several days,Several days,More than half the days,More than half the days,Several days,Several days,More than half the days,Several days,11,Moderate,Good,Worst,Average
+20,Female,More than half the days,More than half the days,Not at all,Not at all,More than half the days,Not at all,Several days,Nearly every day,Not at all,10,Moderate,Average,Average,Bad
+17,Female,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,More than half the days,Several days,4,Minimal,Good,Worst,Good
+21,Male,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,1,Minimal,Good,Good,Average
+25,Female,Nearly every day,Not at all,Nearly every day,Several days,Not at all,More than half the days,Not at all,Not at all,Several days,10,Moderate,Good,Average,Good
+17,Female,Not at all,Not at all,Several days,Several days,Several days,Not at all,Several days,Several days,Not at all,5,Mild,Bad,Bad,Average
+21,Female,Not at all,Several days,Several days,Several days,Not at all,Several days,Not at all,Several days,Several days,6,Mild,Average,Average,Good
+20,Male,Not at all,Several days,Not at all,More than half the days,Several days,More than half the days,More than half the days,Several days,Not at all,9,Mild,Average,Average,Good
+23,Male,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,27,Severe,Worst,Worst,Worst
+25,Male,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Several days,Not at all,3,Minimal,Good,Average,Good
+18,Male,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Several days,More than half the days,4,Minimal,Good,Good,Average
+19,Female,Several days,Nearly every day,Nearly every day,More than half the days,Not at all,Several days,More than half the days,Several days,Several days,14,Moderate,Average,Worst,Average
+22,Female,More than half the days,Nearly every day,More than half the days,More than half the days,Several days,More than half the days,More than half the days,More than half the days,More than half the days,18,Moderately severe,Bad,Worst,Bad
+19,Female,Not at all,Several days,Not at all,Not at all,Not at all,Several days,More than half the days,Several days,Not at all,5,Mild,Average,Average,Bad
+19,Male,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,26,Severe,Bad,Bad,Good
+22,Female,Not at all,More than half the days,Not at all,Several days,Several days,Several days,Not at all,Several days,Not at all,6,Mild,Good,Average,Average
+21,Male,Several days,Several days,Several days,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,4,Minimal,Good,Good,Worst
+17,Male,More than half the days,Several days,Several days,Several days,More than half the days,Several days,More than half the days,Several days,Nearly every day,14,Moderate,Average,Good,Bad
+25,Male,Not at all,Several days,Not at all,Several days,Not at all,Not at all,Nearly every day,Not at all,Several days,6,Mild,Average,Good,Bad
+22,Female,Not at all,Nearly every day,Nearly every day,Nearly every day,More than half the days,Several days,More than half the days,Nearly every day,More than half the days,19,Moderately severe,Bad,Bad,Good
+23,Female,Not at all,Not at all,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,Not at all,Not at all,10,Moderate,Average,Worst,Average
+26,Female,Not at all,More than half the days,Not at all,Not at all,More than half the days,More than half the days,Not at all,More than half the days,Nearly every day,11,Moderate,Worst,Bad,Average
+19,Female,Several days,Several days,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,3,Minimal,Average,Average,Average
+19,Male,Several days,Nearly every day,Nearly every day,Nearly every day,Several days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,23,Severe,Bad,Bad,Worst
+23,Male,Not at all,Nearly every day,Nearly every day,More than half the days,Nearly every day,Several days,Not at all,Not at all,More than half the days,14,Moderate,Good,Average,Average
+22,Female,More than half the days,Several days,Not at all,Several days,More than half the days,Not at all,Not at all,Not at all,Nearly every day,9,Mild,Good,Average,Average
+17,Female,Not at all,Nearly every day,Several days,Not at all,More than half the days,More than half the days,Several days,Not at all,Several days,10,Moderate,Average,Worst,Good
+21,Male,Not at all,Not at all,Not at all,More than half the days,Several days,Nearly every day,More than half the days,More than half the days,Not at all,10,Moderate,Good,Good,Bad
+18,Male,Several days,Not at all,Nearly every day,Several days,More than half the days,Nearly every day,More than half the days,Nearly every day,Nearly every day,18,Moderately severe,Average,Worst,Bad
+25,Male,Not at all,Several days,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Several days,3,Minimal,Good,Average,Worst
+20,Female,More than half the days,Several days,Several days,Several days,Several days,Several days,Not at all,Not at all,Several days,8,Mild,Good,Average,Average
+17,Female,Several days,More than half the days,Several days,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,5,Mild,Bad,Bad,Average
+21,Male,More than half the days,Nearly every day,Nearly every day,More than half the days,More than half the days,Nearly every day,Nearly every day,More than half the days,More than half the days,22,Severe,Average,Bad,Average
+19,Male,More than half the days,Not at all,More than half the days,Nearly every day,Several days,Several days,Not at all,More than half the days,Not at all,11,Moderate,Average,Worst,Good
+21,Male,Several days,More than half the days,Several days,Several days,Not at all,Not at all,Several days,Nearly every day,Not at all,9,Mild,Average,Bad,Good
+18,Male,Several days,Several days,More than half the days,Several days,Nearly every day,More than half the days,More than half the days,Nearly every day,Not at all,15,Moderately severe,Worst,Bad,Average
+24,Male,Nearly every day,Several days,Several days,Nearly every day,Several days,Several days,Nearly every day,Nearly every day,Nearly every day,19,Moderately severe,Average,Average,Worst
+20,Male,More than half the days,Nearly every day,Several days,More than half the days,Nearly every day,Nearly every day,Nearly every day,Not at all,Several days,18,Moderately severe,Bad,Bad,Bad
+19,Male,Nearly every day,More than half the days,Several days,More than half the days,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,22,Severe,Worst,Worst,Worst
+23,Male,Not at all,Not at all,More than half the days,More than half the days,Not at all,Several days,Several days,Several days,More than half the days,9,Mild,Bad,Good,Good
+19,Male,Not at all,Several days,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,2,Minimal,Average,Average,Bad
+21,Male,Nearly every day,Several days,Nearly every day,Nearly every day,Several days,More than half the days,Not at all,Nearly every day,More than half the days,18,Moderately severe,Average,Bad,Bad
