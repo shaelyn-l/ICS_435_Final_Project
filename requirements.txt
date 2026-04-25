@@ -1,2 +1,9 @@
 python3
 jupyter notebook
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
